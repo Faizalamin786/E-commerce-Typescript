@@ -63,10 +63,3 @@ $ npm start
 - Run http://localhost:3000/signin
 - Enter admin email and password and click signin
 
-## Support
-
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
-
-## Lessons
-
-- [View All Lessons Scripts](/lessons/)
